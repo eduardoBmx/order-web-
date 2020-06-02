@@ -1,0 +1,49 @@
+.divEsq {
+    float: left;
+    width: 17%;
+}
+
+.divOrderEsq {
+
+  float: left;
+  width: 70%;
+}
+
+.divGeral {
+  padding: 2%;
+}
+
+.divDir {
+    margin-left: 20%;
+    position: center;
+}
+
+.divBtnSubmit {
+
+    margin-top: 6%;
+}
+
+.butttonItem {
+    margin-top: 10px;
+    background-color: #3CB371;
+    border: none;
+    color: aliceblue;
+    padding: 0.7% 0.4% 0.7% 0.4%;
+    border-radius: 10px;
+    border-color: #3498db;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+  }
+  .butttonItem:hover {
+    box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+  }
+
+  .select {
+    width: 40%;
+  }
+
+  .labelSelect {
+      margin-top: 3%;
+  }
